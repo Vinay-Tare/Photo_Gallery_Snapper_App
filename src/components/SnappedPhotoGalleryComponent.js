@@ -19,7 +19,7 @@ function SnappedPhotoGallery({ query }) {
     let title = queried_image.title;
     let url = `https://farm${farm}.staticflickr.com/${server}/${id}_${secret}_m.jpg`;
     return(
-      <Col xs="6" md="3" className="p-3">
+      <Col xs="12" sm="6" md="3" className="p-3">
         <Photo url={url} title={title} key={id} />
       </Col>
     );
