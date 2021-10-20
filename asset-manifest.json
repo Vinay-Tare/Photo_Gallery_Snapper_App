@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Photo_Gallery_Snapper_App/static/css/main.890a37cf.chunk.css",
+    "main.js": "/Photo_Gallery_Snapper_App/static/js/main.27bc4bbe.chunk.js",
+    "main.js.map": "/Photo_Gallery_Snapper_App/static/js/main.27bc4bbe.chunk.js.map",
+    "runtime-main.js": "/Photo_Gallery_Snapper_App/static/js/runtime-main.dd956567.js",
+    "runtime-main.js.map": "/Photo_Gallery_Snapper_App/static/js/runtime-main.dd956567.js.map",
+    "static/css/2.5877e3a3.chunk.css": "/Photo_Gallery_Snapper_App/static/css/2.5877e3a3.chunk.css",
+    "static/js/2.ab452c81.chunk.js": "/Photo_Gallery_Snapper_App/static/js/2.ab452c81.chunk.js",
+    "static/js/2.ab452c81.chunk.js.map": "/Photo_Gallery_Snapper_App/static/js/2.ab452c81.chunk.js.map",
+    "static/js/3.e0e4a195.chunk.js": "/Photo_Gallery_Snapper_App/static/js/3.e0e4a195.chunk.js",
+    "static/js/3.e0e4a195.chunk.js.map": "/Photo_Gallery_Snapper_App/static/js/3.e0e4a195.chunk.js.map",
+    "index.html": "/Photo_Gallery_Snapper_App/index.html",
+    "static/css/2.5877e3a3.chunk.css.map": "/Photo_Gallery_Snapper_App/static/css/2.5877e3a3.chunk.css.map",
+    "static/css/main.890a37cf.chunk.css.map": "/Photo_Gallery_Snapper_App/static/css/main.890a37cf.chunk.css.map",
+    "static/js/2.ab452c81.chunk.js.LICENSE.txt": "/Photo_Gallery_Snapper_App/static/js/2.ab452c81.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Photo_Gallery_Snapper_App/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd956567.js",
+    "static/css/2.5877e3a3.chunk.css",
+    "static/js/2.ab452c81.chunk.js",
+    "static/css/main.890a37cf.chunk.css",
+    "static/js/main.27bc4bbe.chunk.js"
+  ]
+}
